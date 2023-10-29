@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    background-color: #504a9e;
+}           
+    img{
+        width: 400px;
+        height: 100px;
+        border-radius: 30px;
+        
+    }
+    button{
+        background-color: aqua;
+        border-radius: 40px;
+        width:200px;  
+        height:100px;
+        font-size: 20px;
+    }
+    h2{
+        padding-left: 100PX;
+    }
+    .kk{
+        background-color: #504a9e;
+    }
